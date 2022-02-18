@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Class",
+    "\\Class\\AddComplexNum",
+    "\\Class\\CtimeFunction",
+    "\\Class\\CTimeFunctionEnhanced",
+    "\\Class\\DateClassEnhanced",
+    "\\Class\\EmployeeClass",
+    "\\Class\\HeartRateCalculator",
+    "\\Class\\InvoiceClass",
+    "\\Class\\RectangleClass"
+  ],
+  "SelectedNode": "\\Class\\TickTackToe\\TicTacToe.h",
+  "PreviewInSolutionExplorer": false
+}
